@@ -62,7 +62,7 @@ export const portfolioData = {
       description:
         "Informative website for a real estate company in Bogotá, using React, TypeScript, Google Maps, and Material UI.",
       image: "/projects/origin.png",
-      project_snapshot: "/projects/snapshots/origin.png",
+      project_snapshot: "/projects/snapshots/Origin.png",
       live: "https://origin-s-a-s.vercel.app/",
       repo: "https://github.com/totovalv/Origin-S.A.S",
     },
