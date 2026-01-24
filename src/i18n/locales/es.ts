@@ -160,6 +160,11 @@ export const es = {
 
   projects: [
     {
+      title: "Sitio Web Portfolio para Psicóloga",
+      description:
+        "Sitio web profesional desarrollado para una psicóloga, que incluye descripciones detalladas de sus servicios, una sección sobre ella y un sistema de contacto directo por correo electrónico. Diseñado para brindar información clara, una experiencia visual tranquila y una forma accesible para que los pacientes se comuniquen.",
+    },
+    {
       title: "Juego de Lucha 1v1 (2d)",
       description:
         "Un emocionante e inmersivo juego de lucha 2D 1v1 desarrollado íntegramente con JavaScript y HTML. Con animaciones fluidas, controles receptivos y una jugabilidad atractiva.",

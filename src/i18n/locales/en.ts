@@ -159,6 +159,11 @@ export const en = {
   ],
   projects: [
     {
+      title: "Psychologist Portfolio Website",
+      description:
+        "Professional website developed for a psychologist, featuring detailed service descriptions, an about section, and direct email contact. Designed to provide clear information, a calm visual experience, and an accessible way for patients to get in touch.",
+    },
+    {
       title: "Fighting Game 1v1 (2d)",
       description:
         "An exciting and immersive 2D 1v1 fighting game developed entirely with JavaScript and HTML. Featuring smooth animations, responsive controls, and engaging gameplay.",

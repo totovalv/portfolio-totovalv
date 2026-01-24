@@ -20,7 +20,17 @@ export const portfolioData = {
   ],
   about:
     "Soy Tomas Valverde, tengo 25 años de CABA, Buenos Aires. Soy muy curioso y siempre estoy interesado en seguir aprendiendo habilidades desconocidas, actualmente enfocado principalmente en el área tech pero sin dejar de lado otras ramas que también me apasionan. Soy ilustrador, realizo pinturas 🎨, tatuajes, toco la guitarra, me gusta leer sobre filosofía y historia del arte y de la música.",
-  projects: [
+  projects: [{
+  title: "Psychologist Portfolio Website",
+  description:
+    "Professional website developed for a psychologist, featuring detailed service descriptions, an about section, and direct email contact. Designed to provide clear information, a calm visual experience, and an accessible way for patients to get in touch.",
+  image: "/projects/psychologist-portfolio.png",
+  project_snapshot: "/projects/snapshots/psychologist-portfolio.png",
+  live: "https://psychologist-portfolio.vercel.app/",
+  repo: "https://github.com/totovalv/psychologist-portfolio",
+}
+,
+    
     {
       title: "Fighting Game 1v1 (2d)",
       description:
