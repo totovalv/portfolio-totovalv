@@ -49,7 +49,7 @@ export const es = {
     {
       company: "Cisco",
       role: "Frontend Software Developer",
-      period: "Sep 2023 – May 2025",
+      period: "Sep 2023 – Dic 2023",
       points: [
         "Traduje diseños UI/UX en componentes frontend responsivos, accesibles y reutilizables.",
         "Trabajé con Angular y React en el desarrollo y mantenimiento de interfaces web a nivel empresarial.",
@@ -108,24 +108,6 @@ export const es = {
   ],
 
   education: [
-    {
-      degree: "Experto en Ethical Hacking",
-      school: "Universidad Tecnológica Nacional (UTN)",
-      period: "Nov 2023 – Apr 2024",
-      details: [
-        "Formación avanzada en principios de ciberseguridad, metodologías de ethical hacking y análisis de vulnerabilidades de sistemas.",
-        "Experiencia práctica en técnicas de evaluación de seguridad y estrategias defensivas.",
-      ],
-    },
-    {
-      degree: "Deep Learning: Redes Neuronales",
-      school: "Universidad Tecnológica Nacional (UTN)",
-      period: "May 2023 – Jul 2023",
-      details: [
-        "Enfoque en fundamentos de redes neuronales, conceptos de deep learning y aplicaciones prácticas.",
-        "Introducción al entrenamiento, evaluación de modelos y casos de uso reales.",
-      ],
-    },
     {
       degree: "Full Stack Developer",
       school: "Soy Henry Bootcamp",

@@ -91,7 +91,7 @@ export const portfolioData = {
     {
       company: "Cisco",
       role: "FrontEnd Software Developer",
-      period: "Sep 2023 - Present",
+      period: "Sep 2023 - Dec 2023",
       points: [
         "Translated UI/UX concepts into responsive interfaces.",
         "Implemented performance optimizations for improved web speed.",
@@ -144,16 +144,6 @@ export const portfolioData = {
     "AWS",
   ],
   education: [
-    {
-      degree: "Experto en Hacking Ético",
-      school: "UTN",
-      period: "Nov 23 - Apr 24",
-    },
-    {
-      degree: "Deep Learning: Neural Networks",
-      school: "UTN",
-      period: "May 23 - Jul 23",
-    },
     {
       degree: "Full Stack Developer",
       school: "Soy Henry Bootcamp",
